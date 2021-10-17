@@ -2,9 +2,9 @@
 
 <h1> Welcome to my Github :v: </h1>
 
-<p>I'm Davide, I attended the BA in Web and Business Communications.
-  <br>Today I'm a Junior Front End Developer 👨‍💻 </p>
-<p> Here you can find my excercise and proejcts </p>
+<p>I'm Davide, graduated in Web and Business Communications.
+  <br>Today, I'm a Junior Front End Developer 👨‍💻   , ready to work and improve my skills :memo:
+  <br>Here you can find my future excercises and projects. </p>
 
 <h2>Where you can find me ? 🤔</h2>
 
