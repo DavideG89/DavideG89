@@ -8,10 +8,38 @@
 
 <h2>Where you can find me ? 🤔</h2>
 
+<h3>Gmail:</h3> <p> davidegiuliano89@gmail.com</p>
 
+<div>
+  
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dav-giu//)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg' alt='behance' height='40'>](https://www.behance.net/davidegiuliano89bdff//)
-[<img src='https://img.icons8.com/color/48/000000/email.png' alt='email' height='40'>](https://mailto:davidegiuliano89@gmail.com)
+  
+</div>
+
+  <h2> Coding Skills :computer: </h2>
+  
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='40' /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height='40' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='40' />
+  </div>
+  
+  <h2> Graphic Skills :pencil2: </h2>
+  
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height='40' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height='40' />
+  </div>
+
+
+
+
+
+
 
 
 <!--
