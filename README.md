@@ -1,4 +1,4 @@
-![](https://github.com/DavideG89/DavideG89/blob/c610a3cb4468b2b1a4af3f193aa038894dbf9059/github.jpg)
+![](https://github.com/DavideG89/DavideG89/blob/ebe3a416f0555ae8af3e02c4e36046966d3eb353/github-nobk.png)
 
 <h1> Welcome to my Github :v: </h1>
 
